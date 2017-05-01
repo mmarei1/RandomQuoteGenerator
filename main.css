@@ -1,0 +1,85 @@
+
+body{
+  background: #808080 url('http://i.imgur.com/nJfhx6r.jpg') no-repeat right top;
+  margin-top: 30px;
+}
+
+.top-bar{
+  background-color: #000;
+  margin: -30px;
+  margin-bottom: 30px;
+  padding: 10px 20px 20px 40px;
+  font-family: 'Ubuntu','sans-serif';
+  color: white;
+  font-weight: bold;
+}
+
+h1{  
+  font-size: 26px;
+  color: white !important;
+  font-family: 'Ubuntu', 'sans-serif'; 
+}
+
+h2{
+  color: white !important;
+  font-size:18px;
+  font-weight: bold;
+  font-family: 'Ubuntu','sans-serif';
+  padding: 0px 10px 0px 10px;
+}
+
+h3{
+  color: black !important;
+  font-size:18px;
+  font-weight: bold;
+  font-family: 'Ubuntu','sans-serif';
+  padding: 0px 10px 0px 10px;
+}
+
+.tile-space{
+  font-family: 'Ubuntu', 'sans-serif';
+}
+
+p{
+  font-family: 'Roboto', 'sans-serif';
+  color: black;
+  font-size: 14px;
+}
+
+ul{
+  font-family: 'Ubuntu','sans-serif';
+}
+
+.bottom-bar{
+  color: #cca;
+  margin: -60px -60px -60px -60px;
+}
+
+h4{
+ font-family: 'Ubuntu', 'sans-serif';
+  margin: -60px -60px -60px -60px;
+}
+
+.thumbnail{
+  width: 200px;
+}
+
+.quotes{
+  background-color: rgba(128,128,128,0.2);
+  color: black !important;
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 16px;
+  margin-top: 20px;
+  padding: 30px 40px 30px 40px;
+  border-radius: 15px;
+  border: 1px solid rgba(0,0,0,0.7);
+}
+#quote{
+  font-size:20px;
+  color:white !important;
+}
+#author{
+  font-size:16px;
+  color:white !important;
+  font-style:italic;
+}
