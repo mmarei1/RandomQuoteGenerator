@@ -16,6 +16,7 @@ Sample screen outputs:
 Future work:
 
 -Develop custom quote API and integrate within app as a fully-fledged project.
+
 -Resolve mixed content issues in Chrome. Testing currently limited to Firefox due to less strict mixed-content handling.
 
 Developed 30/1/2017. Last Version 1/5/2017
