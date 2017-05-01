@@ -9,6 +9,8 @@ This simple web app leverages the Programming Quotes API developed by <a href="h
 
 The website has two interaction points; the "Get Quote" button and the "Tweet!" button.
 
+Try a <a href="http://codepen.io/mmarei1/full/QvvpMZ/">live version</a> on codepen.io
+
 Sample screen outputs:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="FqpIr6U"><a href="//imgur.com/FqpIr6U">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
